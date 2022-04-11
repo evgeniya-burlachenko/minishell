@@ -1,0 +1,48 @@
+/bin/ls
+ 
+	
+/bin/echo 123
+/bin/pwd 
+/bin/pwd arg
+cd .
+echo HELLO -n
+echo -n HELLO
+echo
+echo HELLO
+exit
+exit a
+exit 1 a
+exit a 1
+exit 23456874578765365453245234
+'/bin/ls gfjhdfghgfdg'
+$? + $?
+echo "cat lol.c | cat > lol.c"
+echo "     1gbgfbg bgbgb "
+echo "     1gbgfbg bgbgb "bgbb
+echo ' echo'
+echo ''
+echo ' | < > '
+echo '$USER'
+export school=42
+export school=21
+cd .
+cd ..
+pwd
+
+cd minishell_tester | ../check_path/1/runme
+echo 123 > 42 | echo 321 >> 42 | cat 42 | grep 1 | wc -c
+echo test | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e | cat -e
+ls>'"'
+ls>><<1
+cd |
+echo $$
+echo $
+>fil$q'1' e$w"ho" s$i"r"ing f$r$u file1
+echo $321
+echo -n -n -n test tout
+echo ~
+echo $lkjlkjllkdfs$q$w$e$r"$e"$q"l"'l'$r
+echo $?
+$ < 1
+echo $"mmm"
+echo $@mmm
